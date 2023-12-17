@@ -1,0 +1,16 @@
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\MathFlashCards\MathFlashCards\MathFlashCards\bin\Debug\net6.0-windows\MathFlashCards.exe
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\MathFlashCards\MathFlashCards\MathFlashCards\bin\Debug\net6.0-windows\MathFlashCards.deps.json
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\MathFlashCards\MathFlashCards\MathFlashCards\bin\Debug\net6.0-windows\MathFlashCards.runtimeconfig.json
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\MathFlashCards\MathFlashCards\MathFlashCards\bin\Debug\net6.0-windows\MathFlashCards.dll
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\MathFlashCards\MathFlashCards\MathFlashCards\bin\Debug\net6.0-windows\MathFlashCards.pdb
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\MathFlashCards\MathFlashCards\MathFlashCards\obj\Debug\net6.0-windows\MathFlashCards.Form1.resources
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\MathFlashCards\MathFlashCards\MathFlashCards\obj\Debug\net6.0-windows\MathFlashCards.csproj.GenerateResource.cache
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\MathFlashCards\MathFlashCards\MathFlashCards\obj\Debug\net6.0-windows\MathFlashCards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\MathFlashCards\MathFlashCards\MathFlashCards\obj\Debug\net6.0-windows\MathFlashCards.AssemblyInfoInputs.cache
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\MathFlashCards\MathFlashCards\MathFlashCards\obj\Debug\net6.0-windows\MathFlashCards.AssemblyInfo.cs
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\MathFlashCards\MathFlashCards\MathFlashCards\obj\Debug\net6.0-windows\MathFlashCards.csproj.CoreCompileInputs.cache
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\MathFlashCards\MathFlashCards\MathFlashCards\obj\Debug\net6.0-windows\MathFlashCards.dll
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\MathFlashCards\MathFlashCards\MathFlashCards\obj\Debug\net6.0-windows\refint\MathFlashCards.dll
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\MathFlashCards\MathFlashCards\MathFlashCards\obj\Debug\net6.0-windows\MathFlashCards.pdb
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\MathFlashCards\MathFlashCards\MathFlashCards\obj\Debug\net6.0-windows\MathFlashCards.genruntimeconfig.cache
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\MathFlashCards\MathFlashCards\MathFlashCards\obj\Debug\net6.0-windows\ref\MathFlashCards.dll
